@@ -2,4 +2,4 @@
 
 [Go程序设计语言](https://book.douban.com/subject/27044219/)学习记录
 
-完整的结题可以参考[这里](https://github.com/torbiak/gopl)
+还可以可以参考[https://github.com/torbiak/gopl](https://github.com/torbiak/gopl),[https://github.com/kdama/gopl](https://github.com/kdama/gopl)
